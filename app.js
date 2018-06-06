@@ -13,7 +13,6 @@ newArray[i] = parseInt(newArray[i]);
  return newArray;
 }
 
-
 array = array.reverse();
 
 console.log(array);
