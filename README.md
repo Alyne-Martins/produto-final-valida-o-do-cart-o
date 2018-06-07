@@ -29,4 +29,4 @@
 15. Senão informa que o cartão é inválido;
 
 
-![fluxograma](../fluxograma.jpeg)
+![fluxograma](imagem/fluxograma.jpeg)
