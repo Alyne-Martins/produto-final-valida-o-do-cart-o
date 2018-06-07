@@ -29,4 +29,4 @@
 15. Senão informa que o cartão é inválido;
 
 
-![fluxograma](imagem/fluxograma.jpeg)
+![fluxograma](https://imgur.com/0mSqKYC)
