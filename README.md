@@ -27,3 +27,6 @@
 14. Se o resultado for divisível por 10, informa que o cartão é válido;
 
 15. Senão informa que o cartão é inválido;
+
+
+![fluxograma](fluxograma.jpeg)
